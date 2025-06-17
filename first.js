@@ -6,3 +6,9 @@ console.log(login);
 
 const footer="Footer added in our website";
 console.log(footer);
+
+
+
+//Rebashing 
+//first go to the branch that you want to rebash
+//Then use - git rebase master
