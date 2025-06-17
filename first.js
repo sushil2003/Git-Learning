@@ -16,4 +16,10 @@ console.log(footer);
 =======
 const payment="Integrated the payment gateway";
 console.log(payment);
+<<<<<<< HEAD
 >>>>>>> 4766925 (Login Added)
+=======
+
+const upi="Integrated the UPI also";
+console.log(upi);
+>>>>>>> 297e232 (UPI Added)
