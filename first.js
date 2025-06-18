@@ -4,7 +4,6 @@ console.log(button);
 const login="Login page added";
 console.log(login);
 
-<<<<<<< HEAD
 const footer="Footer added in our website";
 console.log(footer);
 
@@ -13,13 +12,8 @@ console.log(footer);
 //Rebashing 
 //first go to the branch that you want to rebash
 //Then use - git rebase master
-=======
 const payment="Integrated the payment gateway";
 console.log(payment);
-<<<<<<< HEAD
->>>>>>> 4766925 (Login Added)
-=======
 
-const upi="Integrated the UPI also";
-console.log(upi);
->>>>>>> 297e232 (UPI Added)
+//I am fixing some bug
+console.log("Bug Fixed");
